@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/11/11 0:16:11。
+     1>项目“G:\git_file\noneGitTestDocument\20161110C++test\defConstructor-Car\defConstructor-Car.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\msvs_c\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Car\Car.cpp ..\Car\main.cpp
+         main.cpp
+     1>g:\git_file\nonegittestdocument\20161110c++test\car\main.cpp(6): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+         Car.cpp
+         正在生成代码...
+       Link:
+         E:\msvs_c\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\git_file\noneGitTestDocument\20161110C++test\Debug\defConstructor-Car.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"G:\git_file\noneGitTestDocument\20161110C++test\Debug\defConstructor-Car.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\git_file\noneGitTestDocument\20161110C++test\Debug\defConstructor-Car.lib" /MACHINE:X86 Debug\Car.obj
+         Debug\main.obj
+         defConstructor-Car.vcxproj -> G:\git_file\noneGitTestDocument\20161110C++test\Debug\defConstructor-Car.exe
+     1>已完成生成项目“G:\git_file\noneGitTestDocument\20161110C++test\defConstructor-Car\defConstructor-Car.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.79
